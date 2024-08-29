@@ -1,0 +1,178 @@
+/* Color scheme retro: #fad089, #ff9c5b, #ed303c, #3b8183, #2b696b */
+/*              pale yellow, yellow, red, pale cyan, cyan */
+
+/* Define variables */
+:root {
+    --scroll-color: #3b8183;
+    --code-bg-color: #ff9c5b;
+    --body-color: #fad089;
+    --pale-cyan: #3b8183;
+}
+
+/* Settings for regular wide screen monitor */
+body {
+    margin: 60px auto;
+    width: 50%;
+    background-color: var(--body-color);
+    overflow: auto;
+}
+
+/* Use 90% of the screen if you have a flipped monitor */
+@media screen and (orientation: portrait) {
+    body {
+        margin: 60px auto;
+        width: 90%;
+        background-color: var(--body-color);
+        overflow: auto;
+    }
+}
+
+/* Zoom settings for mobile devices */
+@media screen and (max-width: 1000px) {
+    body {
+        margin: 10px auto;
+        width: 90%;
+        background-color: var(--body-color);
+        overflow: auto;
+        zoom: 110%;
+        }
+}
+
+/* I'll add padding here so easier to click on mobile */
+/* Class site-nav from _default.html */
+.site-nav li a {
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 17px;
+}
+
+/* Class contact-nav from _default.html */
+.contact-nav li a {
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 14px;
+}
+
+/* ##### Header font size  settings for mobile devices ##### */
+@media screen and (max-width: 1000px) {
+    .site-nav li a {
+        padding-right: 6px;
+        padding-left: 6px;
+        line-height: 2em;
+        font-size: 20px;
+    }
+    .contact-nav li a {
+        padding-right: 10px;
+        padding-left: 10px;
+        line-height: 2em;
+        font-size: 20px;
+    }
+}
+
+/* Code blocks */
+pre {
+    overflow-x: auto; /* Create scrollbar when code too long */
+    position: relative;
+    background-color: var(--code-bg-color);
+    border: 1px solid #3b8183;
+}
+pre code {
+    /* background-color: #ff9c5b; /* commented out this to use gruvbox-light*/
+    background-color: var(--code-bg-color);
+    display: block;
+    font-size: 1em;
+    line-height: 1.5em;
+    padding: 10px;
+    width: fit-content; /* Make code block fit content when scrolling */
+    width: 97%;
+}
+
+/* ##### Code font size for mobile devices ##### */
+@media screen and (max-width: 1000px) {
+pre code {
+    background-color: var(--code-bg-color);
+    display: block;
+    font-size: 1em;
+    line-height: 1.5em;
+    padding: 10px;
+    width: fit-content; /* Make code block fit content when scrolling */
+    width: 97%;
+}
+}
+
+/* ###### Scroll bar for body ###### */
+body::-webkit-scrollbar {
+    width: 12px;               /* width of the entire scrollbar */
+}
+body::-webkit-scrollbar-track {
+    background: var(--body-color);        /* color of the tracking area */
+}
+body::-webkit-scrollbar-thumb {
+    background-color: #3b8183;    /* color of the scroll thumb */
+    border-radius: 20px;       /* roundness of the scroll thumb */
+    border: 3px solid var(--body-color);  /* creates padding around scroll thumb */
+}
+
+/* ###### Scroll bar for pre ###### */
+pre::-webkit-scrollbar {
+    width: 12px;               /* width of the entire scrollbar */
+}
+pre::-webkit-scrollbar-track {
+    background: var(--code-bg-color);        /* color of the tracking area */
+}
+pre::-webkit-scrollbar-thumb {
+    background-color: var(--scroll-color);    /* color of the scroll thumb */
+    border-radius: 20px;       /* roundness of the scroll thumb */
+    border: 4px solid var(--code-bg-color);  /* creates padding around scroll thumb */
+}
+
+/* Other settings */
+nav ul, footer ul {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 20px;
+}
+a {
+    text-decoration: none;
+    color: #999;
+}
+a:hover {
+    text-decoration: underline;
+}
+a:link {
+    color: #2b696b;
+}
+a:visited {
+    color: #3b8183;
+}
+h1 {
+    font-size: 2em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+p {
+    font-size: 1em;
+    line-height: 1.1em;
+    color: #333;
+}
+footer {
+    border-top: 1px solid var(--code-bg-color);
+    font-size: .8em;
+    margin-top: 75px;
+}
+
+ul.posts {
+    margin: 20px auto 40px;
+    font-size: 1em;
+    line-height: 1.1em;
+}
+
+ul.posts li {
+    font-size: 1em;
+    line-height: 1.1em;
+    list-style: none;
+}

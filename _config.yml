@@ -1,0 +1,20 @@
+name: Ingrid och Magnus
+title: Ingrid och Magnus
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  inpub: GFM
+  math_engine: mathjax
+  parse_block_html: true
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    default_lang: python
+    css_class: 'highlight'
+
+# Adding for RSS file and indexing for search engines
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+ - jekyll-sitemap

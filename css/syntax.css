@@ -1,0 +1,105 @@
+/* My own color scheme with initial variables from gruvbox-light.css*/
+
+/* Color scheme retro: #fad089, #ff9c5b, #ed303c, #3b8183, #2b696b */
+/*              pale yellow, yellow, red, pale cyan, cyan */
+/* Define colors and call them with var(--pale-cyan);*/
+:root {
+    /* Idendified colors below */
+    --color-strings: #730821; /* Dark red */
+    --color-comments: #520041; /* Dark purple */
+    --color-statements: #2b1055; /* Dark blue */
+    --color-variables: #82466c; /* Dark pink */
+    --color-commons: #282828; /* Black */
+    --color-imports: #477057; /* Green */
+
+    --color-background: #ff9c5b;
+}
+
+.highlight table td { padding: 5px; }
+.highlight table pre { margin: 0; }
+.highlight, .highlight .w {
+  color: var(--color-commons);
+  // background-color: #fbf1c7;
+  background-color: var(--color-background); /* I changed this color to match code bg color */
+}
+.highlight .err {
+  color: var(--color-statements);
+  background-color: var(--color-background);
+  font-weight: bold;
+}
+.highlight .c, .highlight .ch, .highlight .cd, .highlight .cm, .highlight .cpf, .highlight .c1, .highlight .cs {
+  color: var(--color-comments);
+  font-style: italic;
+}
+.highlight .cp {
+  color: var(--color-imports);
+}
+.highlight .nt {
+  color: var(--color-statements);
+}
+.highlight .o, .highlight .ow {
+  color: var(--color-commons);
+}
+.highlight .p, .highlight .pi {
+  color: var(--color-commons);
+}
+.highlight .gi {
+  color: var(--color-strings);
+  background-color: var(--color-background);
+}
+.highlight .gd {
+  color: var(--color-statements);
+  background-color: var(--color-background);
+}
+.highlight .gh {
+  color: var(--color-strings);
+  font-weight: bold;
+}
+.highlight .k, .highlight .kn, .highlight .kp, .highlight .kr, .highlight .kv {
+  color: var(--color-statements);
+}
+.highlight .kc {
+  color: var(--color-variables);
+}
+.highlight .kt {
+  color: #b57614;
+}
+.highlight .kd {
+  color: #af3a03;
+}
+.highlight .s, .highlight .sb, .highlight .sc, .highlight .dl, .highlight .sd, .highlight .s2, .highlight .sh, .highlight .sx, .highlight .s1 {
+  color: var(--color-strings);
+  font-style: italic;
+}
+.highlight .si {
+  color: var(--color-strings);
+  font-style: italic;
+}
+.highlight .sr {
+  color: var(--color-strings);
+  font-style: italic;
+}
+.highlight .sa {
+  color: var(--color-statements);
+}
+.highlight .se {
+  color: #af3a03;
+}
+.highlight .nn {
+  color: var(--color-imports);
+}
+.highlight .nc {
+  color: var(--color-imports);
+}
+.highlight .no {
+  color: var(--color-variables);
+}
+.highlight .na {
+  color: var(--color-strings);
+}
+.highlight .m, .highlight .mb, .highlight .mf, .highlight .mh, .highlight .mi, .highlight .il, .highlight .mo, .highlight .mx {
+  color: var(--color-variables);
+}
+.highlight .ss {
+  color: #076678;
+}

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>{{ page.title }}</title>
+		<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+        <link rel="stylesheet" href="/css/syntax.css" type="text/css">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- For Google analytics -->
+  {% if jekyll.environment == 'production' and site.google_analytics %}
+    {% include analytics.html %}
+  {% endif %}
+
+    <!-- add icon to the title bar in the web browser -->
+        <link
+            rel="icon"
+            href="/images/forlovning.jpg"
+            type="image/x-icon"
+        />
+
+  <!-- Load KaTeX -->
+  {% if page.use_math %}
+  {% include _mathjax_support.html %}
+  {% endif %}
+
+	</head>
+	<body>
+		<nav class="site-nav">
+    		<ul>
+        		<li><a href="/">Hem</a></li>
+	        	<li><a href="/anmalan">Anmalan</a></li>
+	        	<li><a href="/bilder">Bilder</a></li>
+	        	<li><a href="/program">Program</a></li>
+	        	<li><a href="/vagbeskrivning">Vagbeskrivning</a></li>
+    		</ul>
+		</nav>
+		<div class="container">
+
+    {{ content }}
+
+		</div><!-- /.container -->
+		<footer class="contact-nav">
+    		<ul>
+        		<li><a href="mailto:hansson.carl.magnus@gmail.com">Email Magnus</a></li>
+        		<li><a href="mailto:hansson.carl.magnus@gmail.com">Email Ingrid</a></li>
+        		<li><a href="mailto:hansson.carl.magnus@gmail.com">Email Toastmaster</a></li>
+        		<li><a href="https://github.com/HanssonMagnus">github</a></li>
+			</ul>
+		</footer>
+	</body>
+</html>
