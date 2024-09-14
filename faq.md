@@ -7,7 +7,7 @@ title: Ingrid och Magnus - Boende
 
 ### Behöver jag vara flåshurtig och bra på skidor/skridskor för att vara med?
 
-Nej!! Både Ingrid och Magnus är n00bs men enligt oss är båda aktiviteterna väldigt kul och ger fina naturupplevelser även när man är nybörjare. Sedan finns det ett helt nyrenoverat spa som man också kan leva lajf i.
+Nej!! Både Ingrid och Magnus är n00bs men enligt oss är båda aktiviteterna väldigt kul och ger fina naturupplevelser även när man är nybörjare. Sedan finns det ett helt nyrenoverat spa som man också kan leva livet i
 
 ### Har ni tänkt på barnen?
 
@@ -21,6 +21,6 @@ Vi är bara så otroligt glada att man vill vara med och fira vår dag. Skulle m
 
 6 år tackar som frågar
 
-### Hur många timmar tog det er första officiella dejt innan ni ens gav varandra en puss?
+### Hur många timmar tog det på er första officiella dejt innan ni ens gav varandra en puss?
 
 8 timmar tackar som frågar
