@@ -156,14 +156,15 @@ a:hover {
     text-decoration: underline;
 }
 a:link {
-    color: #2b696b;
+    color: #5a67c4;
 }
 a:visited {
-    color: #3b8183;
+    color: #5a67c4   ;
 }
 h1 {
     font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    /*color: #ffc857*/
 }
 p {
     font-size: 1em;
