@@ -1,0 +1,53 @@
+
+/* Color scheme for wedding site */
+/* Soft blush, champagne, muted gold, deep olive, ivory */
+
+:root {
+    --scroll-color: #3a4f41;      /* deep olive */
+    --code-bg-color: #f4ead5;     /* champagne */
+    --body-color: #f8e1e7;        /* soft blush */
+    --pale-cyan: #3a4f41;         /* deep olive */
+    --highlight-color: #d4a373;   /* muted gold */
+}
+
+/* Apply these colors to your layout as needed */
+body {
+    margin: 60px auto;
+    width: 50%;
+    background-color: var(--body-color);  /* soft blush background */
+    overflow: auto;
+}
+
+/* Additional adjustments to fit the elegant tone */
+a {
+    text-decoration: none;
+    color: var(--highlight-color);  /* muted gold for links */
+}
+a:hover {
+    text-decoration: underline;
+    color: var(--scroll-color);    /* deep olive for hover */
+}
+a:link {
+    color: var(--highlight-color);
+}
+a:visited {
+    color: var(--scroll-color);    /* deep olive for visited links */
+}
+
+h1 {
+    font-size: 2em;
+    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+    color: var(--scroll-color);    /* deep olive for headers */
+}
+
+p {
+    font-size: 1em;
+    line-height: 1.1em;
+    color: #333;   /* Keep the text color neutral for readability */
+}
+
+footer {
+    border-top: 1px solid var(--code-bg-color);  /* champagne border */
+    font-size: .8em;
+    margin-top: 75px;
+}

@@ -9,12 +9,23 @@
     --pale-cyan: #3b8183;
 }
 
+/* Updated color scheme with light grey background, fun coral accents, and mint green links */
+:root {
+    --scroll-color: #FF6F61;      /* fun coral for scrollbar thumb */
+    --code-bg-color: #FFFFFF;     /* white for code blocks */
+    --body-color: #F5F5F5;        /* light grey for background */
+    --pale-cyan: #6ABEA7;         /* mint green for links */
+    --highlight-color: #FF9F80;   /* light coral for hover effects */
+    --text-color: #002147;        /* dark grey for text color: #999; */
+}
+
 /* Settings for regular wide screen monitor */
 body {
     margin: 60px auto;
     width: 50%;
     background-color: var(--body-color);
     overflow: auto;
+    /*color: var(--text-color);*/
 }
 
 /* Use 90% of the screen if you have a flipped monitor */
