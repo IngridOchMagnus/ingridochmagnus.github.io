@@ -3,9 +3,9 @@ layout: default
 title: Ingrid och Magnus - Program
 ---
 
-## Program
+<h1> Program </h1>
 
-### ⛷🌞 Torsdag, 6 februari 2025
+<h2> ⛷🌞 Torsdag, 6 februari 2025 </h2>
 
 Om man är RIKTIGT taggad får man gärna komma upp redan på torsdag!
 
@@ -13,7 +13,7 @@ Om man är RIKTIGT taggad får man gärna komma upp redan på torsdag!
 
 **Kväll:** Vi kan ju försöka få till en gemensam middag? To be continued
 
-### ⛷🥂 Fredag, 7 februari 2025
+<h2> ⛷🥂 Fredag, 7 februari 2025 </h2>
 
 Man får hemskt gärna komma upp redan på fredag för att inleda firandet och träffa nära och kära!
 
@@ -23,7 +23,7 @@ Man får hemskt gärna komma upp redan på fredag för att inleda firandet och t
 
 **Klädkod:** You do you! Smart casual om du vill ha en klädkod som stöd
 
-### ⛷💒🕺Lördag, 8 februari 2025
+<h2> ⛷💒🕺Lördag, 8 februari 2025 </h2>
 
 **Pre vigsel:** Relativt organiserad hopp och lek, d.v.s. vi kommer antagligen styra upp lite olika grupper ink en kapten per aktivitet men man kan ju också glida runt där man känner för. Bra att ha lite marginal att göra sig iordning inför kyrkan om man inte vill sitta i långkallingar i Guds hus.
 
@@ -33,7 +33,7 @@ Man får hemskt gärna komma upp redan på fredag för att inleda firandet och t
 
 **Klädkod:** Mörk kostym (vars knappar knäpps upp och ev. börjar glittra alltefter kvällen går)
 
-### Söndag, 9 februari 2025
+<h2> 🍓🥐 Söndag, 9 februari 2025 </h2>
 
 **Förmiddag:** Frukost och utcheckning, man äter och checkar ut när det passar en själv
 

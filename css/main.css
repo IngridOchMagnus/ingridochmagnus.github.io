@@ -176,6 +176,13 @@ h2 {
     /*color: #ffc857*/
 }
 
+h3 {
+    font-size: 1.3em;
+    /*font-family:'Helvetica';*/
+    padding-top: 10px;
+    /*color: #ffc857*/
+}
+
 p {
     font-size: 1.30em;
     line-height: 1.1em;

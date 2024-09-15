@@ -3,9 +3,9 @@ layout: default
 title: Ingrid och Magnus - Boende
 ---
 
-## FAQ
+<h1> FAQ </h1>
 
-### Behöver jag vara flåshurtig och bra på skidor/skridskor för att vara med?
+<h3> Behöver jag vara flåshurtig och bra på skidor/skridskor för att vara med? </h3>
 
 Nej!! Både Ingrid och Magnus är n00bs men enligt oss är båda aktiviteterna väldigt kul och ger fina naturupplevelser även när man är nybörjare. Sedan finns det ett helt nyrenoverat spa som man också kan leva livet i
 
@@ -15,7 +15,7 @@ På lördagen har vi gärna party utan barn men övriga tider är de varmt välk
 
 ### Har ni tänkt på present?
 
-Vi är bara så otroligt glada att man vill vara med och fira vår dag. Skulle man trots detta vilja bidra med något så uppskattas donationer till vår bröllopsresa eller till valrfi välgörenhet!
+Vi är så otroligt glada att man vill vara med och fira vår dag så är gott nog! Skulle man trots detta vilja bidra med något så uppskattas donationer till vår bröllopsresa eller till valrfi välgörenhet
 
 ### Hur många år var ni kompisar innan ni äntligen fick tummen ur?
 
