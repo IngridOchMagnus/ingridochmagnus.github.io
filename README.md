@@ -1,4 +1,4 @@
-# hassonmagnus.github.io
+# ingridochmagnus.party
 
 ## Install prerequisites
 ```

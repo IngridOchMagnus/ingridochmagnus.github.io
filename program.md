@@ -5,7 +5,7 @@ title: Ingrid och Magnus - Program
 
 ### Program
 
-**Fredag, 7 februari 2025**
+#### **Fredag, 7 februari 2025**
 - **Dag:** Utforska Högbo Bruks vinteraktiviteter! Åk skidor, långfärdsskridskor (om isen tillåter), eller njut av en avkopplande stund på spa. Incheckning sker under dagen.
 - **Kväll:** Gemensam middag för alla som har anlänt.
 
