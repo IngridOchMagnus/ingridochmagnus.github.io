@@ -3,11 +3,11 @@ layout: default
 title: Ingrid och Magnus - Boende
 ---
 
-## Boende
+<h1> Boende </h1>
 
-Nedan är förslag på boende men ni får såklart bo var ni vill! Ni bokar själva, följ instruktionerna och länkarna nedan. Vi har prelbokat på båda platserna men vi kan inte hogga rummen för evigt så boka asap
+Ni bokar boende själva och nedan finns förslag! Boka asap då vi ej kan hogga rummen för evigt
 
-## 🏰 Högbo Bruk
+<h2> 🏰 Högbo Bruk </h2>
 
 Så himla trevligt och svingod mat (ink frukosten). Det ska finnas tillräckligt med rum reserverade för fredag och lördag natt, torsdag natt har vi bara några rum reserverade så först till kvarn att haffa om ni vill bo fr.o.m torsdag
 
@@ -17,7 +17,7 @@ Så himla trevligt och svingod mat (ink frukosten). Det ska finnas tillräckligt
 
 **Boka:** XXX, ange "ingridochmagnus" som kod
 
-## 🏫 Högbo Vandrarhem
+<h2> 🏫 Högbo Vandrarhem </h2>
 
 Högbos gamla byskola som är vandrarhem sedan över 20 år. Ägarna verkar trevliga och det är riktigt billiga rum, men inget annat ingår och oklart hur nice de gemensamma utrymmena är
 

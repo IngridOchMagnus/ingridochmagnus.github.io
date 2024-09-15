@@ -3,11 +3,11 @@ layout: default
 title: Ingrid och Magnus - Anmalan
 ---
 
-## 🎊 OSA 🎊
+<h1> 🎊 OSA 🎊 </h1>
 
-Tryck <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScMqCB3ZLbIoSALHixe6yPg6gWMIBRdzEmGZ4ZQRpRTduqffg/viewform?usp=sf_link"> här</a> för att OSA
+Tryck ✨<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScMqCB3ZLbIoSALHixe6yPg6gWMIBRdzEmGZ4ZQRpRTduqffg/viewform?usp=sf_link">HÄR</a>✨ för att OSA
 
-#### Bra att veta
+<h2 style="text-align: left;"> Bra att veta </h2>
 
 - Längdskidor och långfärdsskridskor är kul oavsett om man är total nybörjare eller Jakob (Cederlöf) Bourne
 - Mer info kommer kring akviteter att roa sig med
