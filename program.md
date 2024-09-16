@@ -4,7 +4,7 @@ title: Ingrid och Magnus - Program
 ---
 
 <h1> Program </h1>
-
+<div style="background-color:white; padding:30px; margin-bottom:30px">
 <h2> ⛷🌞 Torsdag, 6 februari 2025 </h2>
 
 Om man är RIKTIGT taggad får man gärna komma upp redan på torsdag!
@@ -12,6 +12,9 @@ Om man är RIKTIGT taggad får man gärna komma upp redan på torsdag!
 **Dag:** Fri hopp och lek, pass på att utforska Högbo Bruks vinteraktiviteter! Åk skidor, långfärdsskridskor (om isen tillåter), eller njut av en avkopplande stund på spa.
 
 **Kväll:** Vi kan ju försöka få till en gemensam middag? To be continued
+
+</div>
+<div style="background-color:white; padding:10px">
 
 <h2> ⛷🥂 Fredag, 7 februari 2025 </h2>
 
@@ -22,6 +25,8 @@ Man får hemskt gärna komma upp redan på fredag för att inleda firandet och t
 **Middag:** Gemensam middag för alla som vill, börjar 17.00 om vi är väldigt många och senare om vi är färre
 
 **Klädkod:** You do you! Smart casual om du vill ha en klädkod som stöd
+
+</div>
 
 <h2> ⛷💒🕺Lördag, 8 februari 2025 </h2>
 

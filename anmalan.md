@@ -10,6 +10,6 @@ Tryck ✨<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScMqC
 <h2 style="text-align: left;"> Bra att veta </h2>
 
 - Längdskidor och långfärdsskridskor är kul oavsett status total nybörjare eller Jakob (Cederlöf) Bourne
-- Mer info kommer kring akviteter att roa sig med
+- Deadline för att OSA är 31/10
 - Ni bokar boende själva, se sektion <a style="color:black" href="/boende">Boende</a>
 - Vi står för lördagskalaset, övriga måltider etc. står vi inte för då våra fickor (ännu) inte är tillräckligt djupa
