@@ -15,7 +15,7 @@ På lördagen har vi gärna party utan barn men övriga tider är de varmt välk
 
 ### Har ni tänkt på present?
 
-Vi är så otroligt glada att man vill vara med och fira vår dag så är gott nog! Skulle man trots detta vilja bidra med något så uppskattas donationer till vår bröllopsresa eller till valrfi välgörenhet
+Vi är så otroligt glada att man vill vara med och fira vår dag så det är gott nog! Skulle man trots detta vilja bidra med något så uppskattas donationer till vår bröllopsresa eller till valfri välgörenhet
 
 ### Hur många år var ni kompisar innan ni äntligen fick tummen ur?
 
