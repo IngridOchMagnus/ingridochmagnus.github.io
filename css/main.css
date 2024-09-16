@@ -193,6 +193,21 @@ li {
     font-size: 1.3em;
 }
 
+#program-section {
+    background-color:white;
+    padding:1.5em;
+    margin-bottom:3em;
+    border-radius:18px;
+}
+
+#h3-center {
+    font-size: 1.3em;
+    /*font-family:'Helvetica';*/
+    text-align: center;
+    padding-top: 0px;
+
+}
+
 footer {
     border-top: 1px solid var(--code-bg-color);
     font-size: .8em;

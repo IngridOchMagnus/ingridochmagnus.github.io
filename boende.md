@@ -9,7 +9,7 @@ Ni bokar boende själva! Nedan är förslag och vi har prelbokat till er men bok
 
 <div>
 <img src="./images/hgb4.jpg" alt="Ingrid och Magnus Photo"
-     style="float:left; margin-right: 10px; margin-bottom: 10px;
+     style="float:left; width:44em; height: 27em;  margin-right: 10px; margin-bottom: 10px;
      border: 1px solid #ff9c5b; padding: 2px">
 <h2> 🏰 Högbo Bruk </h2>
 
