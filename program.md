@@ -4,7 +4,7 @@ title: Ingrid och Magnus - Program
 ---
 
 <h1> Program </h1>
-<div style="background-color:white; padding:30px; margin-bottom:30px">
+<div style="background-color:white; padding:1.5em; margin-bottom:3em; border-radius:18px;">
 <h2> ⛷🌞 Torsdag, 6 februari 2025 </h2>
 
 Om man är RIKTIGT taggad får man gärna komma upp redan på torsdag!
@@ -14,7 +14,7 @@ Om man är RIKTIGT taggad får man gärna komma upp redan på torsdag!
 **Kväll:** Vi kan ju försöka få till en gemensam middag? To be continued
 
 </div>
-<div style="background-color:white; padding:10px">
+<div style="background-color:white; padding:1.5em; margin-bottom:3em; border-radius:18px;">
 
 <h2> ⛷🥂 Fredag, 7 februari 2025 </h2>
 

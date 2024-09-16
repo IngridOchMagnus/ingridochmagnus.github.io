@@ -8,8 +8,8 @@ title: Ingrid och Magnus - Boende
 Ni bokar boende själva! Nedan är förslag och vi har prelbokat till er men boka asap då vi ej kan hogga rummen för evigt
 
 <div>
-<img src="./images/hba2.jpg" alt="Ingrid och Magnus Photo"
-     style="float:left; width:310px; margin-right: 10px; margin-bottom: 10px;
+<img src="./images/hgb4.jpg" alt="Ingrid och Magnus Photo"
+     style="float:left; margin-right: 10px; margin-bottom: 10px;
      border: 1px solid #ff9c5b; padding: 2px">
 <h2> 🏰 Högbo Bruk </h2>
 
