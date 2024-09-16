@@ -5,9 +5,10 @@ title: Ingrid och Magnus - Anmalan
 
 <h1> 🎊 OSA 🎊 </h1>
 
-Tryck ✨<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScMqCB3ZLbIoSALHixe6yPg6gWMIBRdzEmGZ4ZQRpRTduqffg/viewform?usp=sf_link">HÄR</a>✨ för att OSA
+<div style="text-align:center; padding:1px"> Tryck ✨<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScMqCB3ZLbIoSALHixe6yPg6gWMIBRdzEmGZ4ZQRpRTduqffg/viewform?usp=sf_link">HÄR</a>✨ 
+</div>
 
-<h2 style="text-align: left;"> Bra att veta </h2>
+<h2 style="text-align: center;"> Bra att veta </h2>
 
 - Längdskidor och långfärdsskridskor är kul oavsett status total nybörjare eller Jakob (Cederlöf) Bourne
 - Deadline för att OSA är 31/10
