@@ -19,6 +19,6 @@ title: Ingrid och Magnus - Toastmasters
 style="width:16.5em;">
 </div>
 <div style="margin-top: 10px">
-Vill du hålla tal, spex eller hitta på något annat kul? Hör av dig till <a>partytoast2025@gmail.com</a> så kommer Clara och Tove att visa vägen!
+Vill du hålla tal, spex eller hitta på något annat kul? Hör av dig till <a>partytoast2025@gmail.com</a> så kommer norra Europas starkaste duo att visa vägen!
 
 </div>
