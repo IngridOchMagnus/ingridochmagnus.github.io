@@ -26,7 +26,7 @@ Man får hemskt gärna komma upp redan på fredag för att inleda firandet och t
 
 **Middag:** Gemensam middag för alla som vill, börjar 17.00 om vi är väldigt många och senare om vi är färre
 
-**Klädkod:** You do you! Smart casual om du vill ha en klädkod som stöd
+**Klädkod:** Fredagsfin, tänk att du ska gå på restaurang med din kæreste eller kompis
 
 </div>
 
