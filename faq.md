@@ -24,3 +24,8 @@ Vi är så otroligt glada att man vill vara med och fira vår dag så det är go
 ### Hur många timmar tog det på er första officiella dejt innan ni ens gav varandra en puss?
 
 8 timmar tackar som frågar
+
+<div style="text-align: center;">
+  <img src="./images/nice.jpeg" alt="Ingrid och Magnus Photo Nice"
+       style="width:40em; margin-right: 9px; vertical-align: middle;">
+</div>

@@ -17,7 +17,7 @@ Så himla trevligt och svingod mat (ink frukosten). Det ska finnas tillräckligt
 
 **Pris:**: 1995 per natt per dubbelrum
 
-**Boka:** XXX, ange "ingridochmagnus" som kod
+**Boka:** <a target="_blank" href="https://boka.hogbobrukshotell.se/se/campaign/campaign-details/1a751d96-6c09-4edc-9624-828e053ae725?currency=SEK&langid=1&roomconfig=a2&year=2025&month=2&day=7&staylength=2&promocode=ingridochmagnus&campaignid=1a751d96-6c09-4edc-9624-828e053ae725"> BOKNINGSLÄNK</a>
 
 </div>
 
