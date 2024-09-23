@@ -14,9 +14,9 @@ title: Ingrid och Magnus - Toastmasters
 </div>
 <div>
 <img src="./images/c4.jpg" alt="Ingrid och Magnus Photo"
-     style="width:25.5em; margin-right: 9px; border: 1px solid #ff9c5b;">
+     style="width:26.7em; margin-right: 9px; border: 1px solid #ff9c5b;">
 <img src="./images/tove1.jpg" alt="Ingrid och Magnus Photo"
-style="width:17em; border: 1px solid #ff9c5b;">
+style="width:16.3em; border: 1px solid #ff9c5b;">
 </div>
 <div style="margin-top: 10px">
 Vill du hålla tal, spex eller hitta på något annat kul? Hör av dig till <a>toastmaster.party@gmail.com</a> så kommer norra Europas starkaste duo att visa vägen!
