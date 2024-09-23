@@ -22,7 +22,7 @@ title: Ingrid och Magnus - Anmalan
 
 <div style="text-align: center;">
   <img src="./images/ingridmagnus1_2.jpg" alt="Ingrid och Magnus Photo"
-       style="width:20em; margin-right: 9px; vertical-align: middle;">
+       style="width:20em; margin-right: 9px; vertical-align: middle; border: 1px solid #ff9c5b;">
   <img src="./images/ingridmagnus2.jpg" alt="Ingrid och Magnus Photo"
-       style="width:20em; vertical-align: middle;">
+       style="width:20em; vertical-align: middle; border: 1px solid #ff9c5b;">
 </div>

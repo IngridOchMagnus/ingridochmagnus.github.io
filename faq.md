@@ -27,5 +27,5 @@ Vi är så otroligt glada att man vill vara med och fira vår dag så det är go
 
 <div style="text-align: center;">
   <img src="./images/nice.jpeg" alt="Ingrid och Magnus Photo Nice"
-       style="width:40em; margin-right: 9px; vertical-align: middle;">
+       style="width:40em; margin-right: 9px; vertical-align: middle; border: 1px solid #ff9c5b;">
 </div>
