@@ -13,10 +13,10 @@ title: Ingrid och Magnus - Toastmasters
 <div style="text-align:center; margin-bottom:25px">TOVE JUNGENFELT
 </div>
 <div>
-<img src="./images/c4.jpg" alt="Ingrid och Magnus Photo"
-     style="width:27em; margin-right: 9px;">
+<img src="./images/c5.jpg" alt="Ingrid och Magnus Photo"
+     style="width:25.5em; margin-right: 9px;">
 <img src="./images/tove1.jpg" alt="Ingrid och Magnus Photo"
-style="width:16.5em;">
+style="width:17em;">
 </div>
 <div style="margin-top: 10px">
 Vill du hålla tal, spex eller hitta på något annat kul? Hör av dig till <a>toastmaster.party@gmail.com</a> så kommer norra Europas starkaste duo att visa vägen!
