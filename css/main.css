@@ -53,6 +53,10 @@ body {
     width: 700px;
 }
 
+#limit {
+    width: 950px;
+}
+
 @media screen and (max-width: 1000px) {
     img {
         width: 100%;       /* Makes the image fill the container's width */
@@ -67,6 +71,9 @@ body {
         max-width: 90vw;
     }
     div#index {
+        width: auto;
+    }
+    div#limit {
         width: auto;
     }
 }
