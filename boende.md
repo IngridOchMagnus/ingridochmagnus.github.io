@@ -9,7 +9,7 @@ Ni bokar boende själva! Nedan är förslag och vi har prelbokat till er men bok
 
 <div>
 <img id="myImage" src="./images/hgb4.jpg" alt="Ingrid och Magnus Photo"
-     width:44em; height: 27em;  margin-right: 10px; margin-bottom: 10px;
+     style="width:44em; height: 27em;  margin-right: 10px; margin-bottom: 10px;
      border: 1px solid #ff9c5b; padding: 2px">
 <h2> 🏰 Högbo Bruk </h2>
 
@@ -23,7 +23,7 @@ Så himla trevligt och svingod mat (ink frukosten). Det ska finnas tillräckligt
 <div>
 
 <img id="myImage" src="./images/hogbo_v.jpeg" alt="Ingrid och Magnus Photo"
-     style="float:left; width:44em; height: 35em;  margin-right: 10px; margin-bottom: 10px;
+     style="width:44em; height: 35em;  margin-right: 10px; margin-bottom: 10px;
      border: 1px solid #ff9c5b; padding: 2px">
 
 </div>
