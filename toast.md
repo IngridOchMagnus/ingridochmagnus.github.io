@@ -12,7 +12,7 @@ title: Ingrid och Magnus - Toastmasters
 </div>
 <div style="text-align:center; margin-bottom:25px">TOVE JUNGENFELT
 </div>
-<div>
+<div style="text-align: center;">
 <img src="./images/c4.jpg" alt="Ingrid och Magnus Photo"
      style="width:26.7em; margin-right: 9px; border: 1px solid #ff9c5b;">
 <img src="./images/tove1.jpg" alt="Ingrid och Magnus Photo"
