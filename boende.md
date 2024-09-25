@@ -24,7 +24,7 @@ title: Ingrid och Magnus - Boende
 
 <img id="myImage" src="./images/hogbo_v.jpeg" alt="Ingrid och Magnus Photo"
      style="width:44em; height: 35em;  margin-right: 10px; margin-bottom: 10px;
-     border: 1px solid #ff9c5b; padding: 2px; text-align: center;">
+     border: 1px solid #ff9c5b; padding: 2px; text-align: center; vertical-align: middle;">
 
 <h2> 🏫 Högbo Vandrarhem </h2>
 <div id="limit" style="margin: 0 auto;">
