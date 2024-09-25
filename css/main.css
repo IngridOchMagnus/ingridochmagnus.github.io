@@ -63,7 +63,7 @@ body {
     /* For the image with the specific id */
     img#myImage {
         max-height: 75vw;        /* Limits this specific image to 90% of the viewport width */
-        max-width: 80vw;
+        max-width: 90vw;
     }
     div#index {
         width: auto;
