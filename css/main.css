@@ -261,5 +261,5 @@ ul.posts li {
 
 #container {
     display: flex;
-    align-items: center;      /* Centers vertically */
+    justify-content: center;  /* Centers horizontally */
 }
