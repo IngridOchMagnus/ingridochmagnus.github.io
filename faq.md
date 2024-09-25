@@ -11,7 +11,7 @@ Nej!! Både Ingrid och Magnus är n00bs men enligt oss är båda aktiviteterna v
 
 ### Har ni tänkt på barnen?
 
-På lördagen har vi gärna party utan barn (räkmacka för de som ammar, de får såklart vara med) och övriga tider är alla barn varmt välkomna att vara med!
+På lördagen har vi gärna party utan barn (med undatag för ammande bebisar) och övriga tider är alla oavsett ålder varmt välkomna att vara med!
 
 ### Har ni tänkt på present?
 
