@@ -59,6 +59,14 @@ body {
 
 }
 
+#program-section {
+    background-color:white;
+    padding:1.5em;
+    margin-bottom:3em;
+    border-radius:18px;
+    max-width: 950px;
+}
+
 @media screen and (max-width: 1000px) {
     img {
         width: 100%;       /* Makes the image fill the container's width */
@@ -76,6 +84,10 @@ body {
         width: auto;
     }
     div#limit {
+        width: auto;
+    }
+
+    div#program-section {
         width: auto;
     }
 }
@@ -223,13 +235,6 @@ p {
 li {
     font-size: 1.25em;
     padding-top: 5px;
-}
-
-#program-section {
-    background-color:white;
-    padding:1.5em;
-    margin-bottom:3em;
-    border-radius:18px;
 }
 
 #h3-center {
