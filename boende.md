@@ -17,7 +17,7 @@ title: Ingrid och Magnus - Boende
 <h2> 🏰 Högbo Bruk </h2>
 <div id="limit" style="margin: 0 auto;">
 
-<p> Så himla trevligt och svingod mat (ink frukosten). Det ska finnas tillräckligt med rum reserverade för fredag och lördag natt, torsdag natt har vi bara några rum reserverade så först till kvarn att haffa om ni vill bo fr.o.m torsdag </p>
+<p> Så himla trevligt och svingod mat (ink frukosten). Det ska finnas tillräckligt med rum reserverade för fredag och lördag natt, är det fullt på torsdagen rekommenderar vi vandrarhemmet </p>
 
 <p> **Pris:**: 1995 per natt per dubbelrum </p>
 
