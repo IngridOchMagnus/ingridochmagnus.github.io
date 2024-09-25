@@ -58,7 +58,7 @@ body {
         width: 100%;       /* Makes the image fill the container's width */
         height: auto;      /* Maintains the aspect ratio */
         max-width: 80vw;  /* Prevents the image from exceeding the viewport width */
-        margin-top: 5px;
+        margin-top: 15px;
     }
     
     /* For the image with the specific id */
