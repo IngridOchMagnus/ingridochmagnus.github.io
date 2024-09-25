@@ -24,7 +24,7 @@ Man får hemskt gärna komma upp redan på fredag för att inleda firandet och t
 
 **Dag:** Fri hopp och lek, pass på att utforska Högbo Bruks vinteraktiviteter! Åk skidor, långfärdsskridskor (om isen tillåter), eller njut av en avkopplande stund på spa.
 
-**Middag:** Gemensam middag för alla som vill, börjar 17.00 om vi är väldigt många och senare om vi är färre
+**Middag:** Välkomna att inleda helgen med mingel och något trevligt att äta (vi bjuder!) bland värmande pälsar och brasor
 
 **Klädkod:** Fredagsfin, tänk att du ska gå på restaurang med din kæreste eller kompis
 
