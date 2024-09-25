@@ -8,9 +8,9 @@ title: Ingrid och Magnus - Anmalan
 <div style="text-align:center; padding:1px"> Tryck ✨<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScMqCB3ZLbIoSALHixe6yPg6gWMIBRdzEmGZ4ZQRpRTduqffg/viewform?usp=sf_link">HÄR</a>✨
 </div>
 
-<div style="padding:1px">
-
 <h2> Bra att veta </h2>
+
+<div id="container" style="padding:1px">
 
 <ul> 
 <li> Längdskidor och långfärdsskridskor är kul oavsett status total nybörjare eller Jakob (Cederlöf) Bourne </li>

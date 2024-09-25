@@ -243,3 +243,8 @@ ul.posts li {
     list-style: none;
     font-size: 1.30em;
 }
+
+#container {
+    display: flex;
+    justify-content: center;  /* Centers horizontally */
+}
