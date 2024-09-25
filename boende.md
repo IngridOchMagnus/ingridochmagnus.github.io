@@ -32,7 +32,7 @@ title: Ingrid och Magnus - Boende
 <h2> 🏫 Högbo Vandrarhem </h2>
 <div id="limit" style="margin: 0 auto;">
 
-<p> Högbos gamla byskola som är vandrarhem sedan över 20 år. Ägarna verkar trevliga och det är riktigt billiga rum, men inget annat ingår och oklart hur nice de gemensamma utrymmena är</p>
+<p> Högbos gamla byskola som är vandrarhem sedan över 20 år. Ägarna verkar trevliga och det är riktigt billiga rum, men inget annat ingår</p>
 
 <p> **Pris:** 240-290 SEK beroende på antal bäddar i rummet</p>
 
