@@ -47,7 +47,7 @@ Man får hemskt gärna komma upp redan på fredag för att inleda firandet och t
 <h2> 💊🥞🍓 Söndag 🍓🥞💊</h2>
 <h3 id="h3-center">9 februari 2025 </h3>
 
-**Förmiddag:** Frukost och utcheckning, vi är i frukostmatsalen från och med 09.30
+**Förmiddag:** Frukost och utcheckning, Ingrid och Magnus är i frukostmatsalen från och med 09.30
 
 **Avresa:** Krama gärna på oss innan ni beger er 💞
 
