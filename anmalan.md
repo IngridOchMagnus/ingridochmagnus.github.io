@@ -14,7 +14,7 @@ title: Ingrid och Magnus - Anmalan
 
 <ul> 
 <li> Längdskidor och långfärdsskridskor är kul oavsett status total nybörjare eller Jakob (Cederlöf) Bourne </li>
-<li> Deadline för att OSA är 31/10</li>
+<li> Deadline för att OSA är 31/11</li>
 <li> Ni bokar boende själva, se sektion <a style="color:black" href="/boende">Boende</a> </li>
 </ul>
 </div>
