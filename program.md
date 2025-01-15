@@ -25,6 +25,7 @@ Man får hemskt gärna komma upp redan på fredag för att inleda firandet och t
 **Dag:** Fri hopp och lek, pass på att utforska Högbo Bruks vinteraktiviteter! Åk skidor, långfärdsskridskor (om isen tillåter), eller njut av en avkopplande stund på spa.
 
 **Middag:** Välkomna att inleda helgen med mingel och något trevligt att äta (vi bjuder!) i Orangeriet i huvudbyggnaden av Högbo bruk. God gulaschsoppa, bröd etc. finns tillgängligt 18.00-20.00 och man får gärna hänga i Orangeriet både innan och efter maten serveras.
+
 **Klädkod:** Fredagsfin, tänk att du ska gå på restaurang med din kæreste eller kompis.
 
 </div>
