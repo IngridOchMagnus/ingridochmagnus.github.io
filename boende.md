@@ -14,7 +14,7 @@ title: Ingrid och Magnus - Boende
      border: 1px solid #ff9c5b; padding: 2px; vertical-align: middle;">
 </div>
 
-<h2> 🏰 Högbo Bruk </h2>
+<h2> 🏰 Högbo Brukshotell  </h2>
 <div id="limit" style="margin: 0 auto;">
 
 <p> Så himla trevligt och svingod mat (ink frukosten). Det ska finnas tillräckligt med rum reserverade för torsdag, fredag och lördag natt! </p>
