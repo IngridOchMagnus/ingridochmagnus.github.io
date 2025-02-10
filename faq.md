@@ -15,7 +15,7 @@ På lördagen har vi gärna party utan barn (med undatag för ammande bebisar) o
 
 ### Har ni tänkt på present?
 
-Vi är så otroligt glada att man vill vara med och fira vår dag så det är gott nog! Skulle man trots detta vilja bidra med något så uppskattas donationer till vår bröllopsresa till Vietnam 🇻🇳🇻🇳🇻🇳 (swish 073-344 80 72 alt bankkonto 9151-774086) eller till valfri välgörenhet
+Vi är så otroligt glada att man vill vara med och fira vår dag så det är gott nog! Skulle man trots detta vilja bidra med något så uppskattas donationer till vår bröllopsresa till Vietnam 🇻🇳🇻🇳🇻🇳 (swish 073-344 80 72 alt bankkonto 9151-077.408-6) eller till valfri välgörenhet
 
 ### Hur många år var ni kompisar innan ni äntligen fick tummen ur?
 
